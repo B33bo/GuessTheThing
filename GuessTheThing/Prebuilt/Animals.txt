@@ -1,0 +1,97 @@
+Does it have 4 legs
+|Does it bark?
+||Does it howl at the moon?
+|||Wolf
+|||Dog
+||Is it commonly ridden?
+|||Are they smaller than a horse?
+||||Can they breed?
+|||||Donkey
+|||||Mule
+||||Are they typically ridden through deserts?
+|||||Camel
+|||||Is it mythical?
+||||||Dragon
+||||||Horse
+|||Are they known for being strong and fierce?
+||||Does it have black stripes?
+|||||Tiger
+|||||Is it a type of cattle?
+||||||Bull
+||||||Are they extinct?
+|||||||Stegosaurus (Dinosaur)
+|||||||Are they called 'Big Cats'?
+||||||||Lion
+||||||||Do they live in the water>
+|||||||||Is it a reptile?
+||||||||||Crocodile
+||||||||||Hippo
+|||||||||Do they have a horn on their head?
+||||||||||Rhino
+||||||||||Are they venomous
+|||||||||||Komodo Dragon
+|||||||||||Bear
+||||Is it a type of cattle?
+|||||Cow
+|||||Are they exclusive to Australia?
+||||||Koala
+||||||Do they have long necks?
+|||||||Are they fluffy?
+||||||||Llama
+||||||||Giraffe
+|||||||Are they kept as pets?
+||||||||Are they fish?
+|||||||||Axolotl
+|||||||||Are they realllly slow?
+||||||||||Turtle
+||||||||||Do they hop around everywhere?
+|||||||||||Do they love nuts?
+||||||||||||Squirrel
+||||||||||||Do they like carrots?
+|||||||||||||Rabbit
+|||||||||||||Frog
+|||||||||||Do they have horns?
+||||||||||||Goat
+||||||||||||Are they farm animals?
+|||||||||||||Do they have wool?
+||||||||||||||Sheep
+||||||||||||||Chicken
+|||||||||||||Are they known for swimming
+||||||||||||||Otter
+||||||||||||||Are they small?
+|||||||||||||||Do they have spikes on them?
+||||||||||||||||Hedgehog
+||||||||||||||||Do they nibble on their food?
+|||||||||||||||||Does it have a short tail?
+||||||||||||||||||Hamster
+||||||||||||||||||Mouse
+|||||||||||||||||Do they have scales?
+||||||||||||||||||Lizard
+||||||||||||||||||Ferret
+|||||||||||||||Do they live in trash cans?
+||||||||||||||||Raccoon
+||||||||||||||||Cat
+||||||||Do they have antlers?
+|||||||||Deer
+|||||||||Are they known for being really fast?
+||||||||||Cheetah
+||||||||||Are they slow?
+|||||||||||Sloth
+|||||||||||Do they show up in gardens?
+||||||||||||Do they sleep upsidedown?
+|||||||||||||Bat
+|||||||||||||Toad
+||||||||||||Are they spotty?
+|||||||||||||Leopard
+|||||||||||||Capybara
+|Does it have any legs?
+||Are they hairy and strong?
+|||Gorilla
+|||Human
+||Is it ugly?
+|||Blobfish
+|||Do they live in the ocean?
+||||Do they have long horns?
+|||||Narwhal
+|||||Shark
+||||Snake
